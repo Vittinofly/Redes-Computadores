@@ -18,7 +18,7 @@
 **Redes de Computadores**
 
 ### 👨‍🎓 Aluno
-- José Antônio dos Santos Filho
+- Victor Hugo Rodrigues Silva
 
 ### 👨‍🏫 Orientador
 - Prof. Francismar Alves Martins Junior
@@ -184,7 +184,7 @@ roteamento-ipv6/
 ## 📋 Informações Importantes
 
 - **Instituição:** UNIBRAS  
-- **Aluno:** José Antônio dos Santos Filho 
+- **Aluno:** Victor Hugo Rodrigues Silva 
 - **Orientador:** Prof. Francismar Alves Martins Junior  
 - **Simulador:** Cisco Packet Tracer  
 - **Data de Conclusão:** 30 de novembro de 2025  
