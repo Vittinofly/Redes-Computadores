@@ -187,7 +187,7 @@ roteamento-ipv6/
 - **Aluno:** Victor Hugo Rodrigues Silva 
 - **Orientador:** Prof. Francismar Alves Martins Junior  
 - **Simulador:** Cisco Packet Tracer  
-- **Data de Conclusão:** 30 de novembro de 2025  
+- **Data de Conclusão:**
 
 **Aviso Legal:**  
 - Cisco Packet Tracer é de propriedade da Cisco Systems, Inc.  
